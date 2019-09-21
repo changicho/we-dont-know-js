@@ -1,6 +1,8 @@
 # we-dont-know-js
 Javascript study group with Boostcampers 📝
 
+#### [Roadmap](https://github.com/boost-study/we-dont-know-js/projects/1) 🗺
+
 #### 내용
 
 : Javascript의 [''꼭 알고 있어야 할", "주의가 필요한", "성능을 향상하는"] 내용 중심으로 **"You Don't Know JS" 도서로 학습할 예정입니다. 참여 시 도서 구매가 필요합니다.**
