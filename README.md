@@ -1,4 +1,4 @@
-# study-js
+# we-dont-know-js
 Javascript study group with Boostcampers 📝
 
 #### 내용
