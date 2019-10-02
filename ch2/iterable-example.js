@@ -15,7 +15,7 @@ const iterableObj = {
 const arr = [...iterableObj]; // [5,4,3,2,1]
 console.log('arr : ', arr);
 
-const arr2 = [...iterableObj[Symbol.iterator()]]; // [5,4,3,2,1]
+const arr2 = [...iterableObj[Symbol.iterator]()]; // [5,4,3,2,1]
 // well-formed iterator : Symbol.iterator 함수의 리턴값으로도 이터레이팅 할 수 있음
 
 console.log('arr2 : ', arr2);
