@@ -7,7 +7,7 @@ Javascript study group with Boostcampers 📝
 
 #### [Roadmap](https://github.com/boost-study/we-dont-know-js/projects/1) 🗺
 
-- [1권 (타입과 문법, 스코프와 클로저)](http://www.yes24.com/Product/Goods/43219481?Acode=101)
+- [1권 (타입과 문법, 스코프와 클로저)](./firstEdition.md)
 
 : 강제변환의 유의 사항과 생성자로서의 네이티브 등 자바스크립트의 타입과 문법에 관한 모호한 개념을 설명
 
